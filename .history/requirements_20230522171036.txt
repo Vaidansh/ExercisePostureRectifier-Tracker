@@ -1,0 +1,7 @@
+matplotlib==3.7.0
+mediapipe==0.9.1.0
+numpy==1.24.2
+opencv_contrib_python==4.7.0.72
+opencv_python==4.7.0.68
+Pillow==9.4.0
+Pillow==9.5.0
